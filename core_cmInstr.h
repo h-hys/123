@@ -23,7 +23,7 @@
 
 #ifndef __CORE_CMINSTR_H
 #define __CORE_CMINSTR_H
-
+uuuuuuuuu11111111111122222222222222
 
 /* ##########################  Core Instruction Access  ######################### */
 /** \defgroup CMSIS_Core_InstructionInterface CMSIS Core Instruction Interface
