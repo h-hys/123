@@ -38,7 +38,7 @@
   #error "Please use ARM Compiler Toolchain V4.0.677 or later!"
 #endif
 
-bbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbfdsfds
 /** \brief  No Operation
 
     No Operation does nothing. This instruction can be used for code alignment purposes.
