@@ -31,13 +31,13 @@ extern "C" {
 #define USE_GPIO_DLPS               0
 #define USE_I2C0_DLPS               0
 #define USE_I2C1_DLPS               0
-#define USE_I2S0_DLPS               0
+#define USE_I2S0_DLPS               1
 #define USE_I2S1_DLPS               0
 #define USE_IR_DLPS                 0
 #define USE_KEYSCAN_DLPS            0
 #define USE_PWM0_DLPS               0
 #define USE_PWM1_DLPS               0
-#define USE_PWM2_DLPS               0
+#define USE_PWM2_DLPS               1
 #define USE_PWM3_DLPS               0
 #define USE_QDECODER_DLPS           0
 #define USE_RTC_DLPS                0
