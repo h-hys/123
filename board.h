@@ -26,7 +26,7 @@ extern "C" {
 
 /* if use any peripherals below, #define it 1 */
 #define USE_ADC_DLPS                0
-#define USE_CODEC_DLPS              0
+#define USE_CODEC_DLPS              02123
 #define USE_DMIC_DLPS               0
 #define USE_GPIO_DLPS               0
 #define USE_I2C0_DLPS               0
