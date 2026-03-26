@@ -37,7 +37,7 @@
 
 #if defined ( __ICCARM__ )
  #pragma system_include  /* treat file as system include file for MISRA check */
-#endif
+#endif11111111111
 
 #ifdef __cplusplus1222233333333333
 #endif
@@ -64,7 +64,7 @@
  ******************************************************************************/
 /** \ingroup Cortex_M4
   @{
- */
+ */aaaaaaaaaaaaaaaa
 
 /*  CMSIS CM4 definitions */
 #define __CM4_CMSIS_VERSION_MAIN  (0x03)                                   /*!< [31:16] CMSIS HAL main version   */
