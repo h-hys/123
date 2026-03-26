@@ -39,8 +39,7 @@
  #pragma system_include  /* treat file as system include file for MISRA check */
 #endif
 
-#ifdef __cplusplus
- extern "C" {
+#ifdef __cplusplus1222233333333333
 #endif
 12345
 #ifndef __CORE_CM4_H_GENERIC
