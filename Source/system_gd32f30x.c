@@ -73,7 +73,7 @@ void SystemInit (void)
     /* reset the RCU clock configuration to the default reset state */
     /* Set IRC8MEN bit */
     RCU_CTL |= RCU_CTL_IRC8MEN;
-
+    RCU_CTL |= RCU_CTL_IRC8MEN;
     /* Reset CFG0 and CFG1 registers */
     RCU_CFG0 = 0x00000000U;
     RCU_CFG1 = 0x00000000U;

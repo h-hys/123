@@ -5,7 +5,7 @@
 
 ;/*
 ;    Copyright (C) 2017 GigaDevice
-
+ Copyright (C) 2017 GigaDevice Copyright (C) 2017 GigaDevice Copyright (C) 2017 GigaDevice Copyright (C) 2017 GigaDevice Copyright (C) 2017 GigaDevice Copyright (C) 2017 GigaDevice
 ;    2017-02-10, V1.0.1, firmware for GD32F30x
 ;*/
 
