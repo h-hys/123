@@ -63,6 +63,7 @@ static void system_clock_config(void);
 
 void SystemInit (void)
 {
+    fdsfdsf;
 	nvic_vector_table_set(NVIC_VECTTAB_FLASH, 0x8008000);
 	__set_PRIMASK(0);
   /* FPU settings */
