@@ -8,7 +8,7 @@
 
     2017-02-10, V1.0.1, firmware for GD32F30x
 */
-
+fdsfdsf
 #ifndef GD32F30X_H
 #define GD32F30X_H
 
